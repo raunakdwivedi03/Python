@@ -7,5 +7,6 @@ This repository contains my Python practice notebooks created using Google Colab
 - Python_02.ipynb – here we revise String functions and operations.
 - Python_List.ipynb – List and their Functions.
 - Python_TUPLE_SET_DIC.ipynb – Python TUPLE+SET+DIC and their operations.
+- Python_Functions.ipynb – Functions in python or Lambda functions and their usability.
 
 📌 Open to internships and entry-level roles in Machine Learning and Software Development.
